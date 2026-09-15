@@ -18,21 +18,20 @@ detailed information, including an overview, causes, symptoms, and prevention me
 navigation of the health information pages to make the content clear, organized, and easy for users to read. 
 
 ## Screenshots
-
 ### Health Library
-![Health Library](screenshots/health-library-diseases.png)
+<img src="screenshots/health-library-diseases.png" width="400">
 
 ### Health Topic Details
-![Health Topic Details](screenshots/health-library-details.png)
+<img src="screenshots/health-library-details.png" width="400">
 
 ### Quiz
-![Quiz](screenshots/health-library-quiz.png)
+<img src="screenshots/health-library-quiz.png" width="400">
 
 ### Quiz Questions
-![Quiz Questions](screenshots/health-library-questions.png)
+<img src="screenshots/health-library-questions.png" width="400">
 
 ### Quiz Results
-![Quiz Results](screenshots/health-library-results.png)
+<img src="screenshots/health-library-results.png" width="400">
 
 ## How to Run
 1. Clone this repository.
