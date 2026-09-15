@@ -19,6 +19,20 @@ navigation of the health information pages to make the content clear, organized,
 
 ## Screenshots
 
+### Health Library
+![Health Library](screenshots/health-library-diseases.png)
+
+### Health Topic Details
+![Health Topic Details](screenshots/health-library-details.png)
+
+### Quiz
+![Quiz](screenshots/health-library-quiz.png)
+
+### Quiz Questions
+![Quiz Questions](screenshots/health-library-questions.png)
+
+### Quiz Results
+![Quiz Results](screenshots/health-library-results.png)
 
 ## How to Run
 1. Clone this repository.
